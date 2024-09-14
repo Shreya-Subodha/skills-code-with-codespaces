@@ -5,6 +5,7 @@
         "vscode": {
             "extensions": [
                 "GitHub.copilot"
+                "mcr\.microsoft\.com/vscode/devcontainers/universal:latest"
             ]
         }
     }
